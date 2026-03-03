@@ -1,2 +1,2 @@
-# ARLOFF
-Autonomous Recursive Local Outlier Factor
+# Autonomous Recursive Local Outlier Factor (ARLOFF)
+
