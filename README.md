@@ -2,7 +2,7 @@
 
 This repository provides the implementation of **Autonomous Recursive Local Outlier Factor (ARLOFF)**, a fully parameter-free outlier detection algorithm.
 
-ARLOFF is designed to operate without any user-defined parameters. Instead of using a fixed number of nearest neighbors, the algorithm adaptively determines neighborhood size based on empirical mutual distance characteristics within the data. As a result, the number of neighbors varies dynamically across different regions of the dataset, enabling density-aware anomaly detection.
+ARLOFF is designed to operate without any user-defined parameters. Instead of using a fixed number of nearest neighbors, the algorithm autonomously determines neighborhood size based on empirical mutual distance characteristics within the data. As a result, the number of neighbors varies dynamically across different regions of the dataset, enabling density-aware anomaly detection.
 
 The algorithm incorporates a **recursive updating mechanism**, making it computationally and memory efficient. ARLOFF updates required statistics incrementally and does not need to store or reprocess all historical data points, which makes it suitable for efficient large-scale processing.
 
