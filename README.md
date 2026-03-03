@@ -33,8 +33,7 @@ http://odds.cs.stonybrook.edu/
 
 ## Key Features
 
-- Fully autonomous  
-- Adaptive neighborhood selection  
+- Fully autonomous   
 - Density-aware local outlier detection  
 - Recursive update mechanism  
 - Computationally efficient  
