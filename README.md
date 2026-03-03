@@ -33,7 +33,7 @@ http://odds.cs.stonybrook.edu/
 
 ## Key Features
 
-- Fully autonomous (no parameter tuning required)  
+- Fully autonomous  
 - Adaptive neighborhood selection  
 - Density-aware local outlier detection  
 - Recursive update mechanism  
